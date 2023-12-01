@@ -4,7 +4,9 @@
 >
 > 出现错误仔细核对文档。
 >
-> github 地址：
+> 导入 postman 测试脚本。
+>
+> github 地址：https://github.com/yuluo-yx/apisix-deploy
 
 ## 使用 docker 安装 apisix
 
@@ -12,7 +14,7 @@
 Docker：https://docs.docker.com/engine/install/centos/
 Docker-Compose：https://docs.docker.com/compose/install/
 
-Clone 并修改配置连接到服务器，新建 apisix-3.7 目录
+Clone 并修改配置连接到服务器（区别本地），新建 apisix-3.7 目录
 
 ```shell
 mkdir apisix-3.7 && cd apisix-3.7
